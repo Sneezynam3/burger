@@ -2,17 +2,19 @@ img {
   border-radius: 200px;
   align-items: center;
 }
+burger_button {
+  color: black;
+}
 
 * {
   background-color: bisque;
 }
 
 h1 {
-    text-align: center;
-
+  text-align: center;
 }
 
 .responsive {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
