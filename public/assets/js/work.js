@@ -22,7 +22,7 @@ $(function() {
 
     $(".change-devour").on("click", function(event) {
       event.preventDefault();
-        var id = $(this).data("id");           
+        var id = $(this).val();           
         var newState = {
           devoured: 1
         }; 
